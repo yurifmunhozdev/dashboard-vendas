@@ -1,0 +1,21 @@
+# Bibliotecas principais
+streamlit>=1.22.0
+pandas>=1.5.3
+plotly>=5.14.1
+
+# Para manipulação de arquivos Excel
+openpyxl>=3.1.2
+xlrd>=2.0.1
+
+# Para manipulação de datas
+python-dateutil>=2.8.2
+
+# Para visualizações adicionais (opcional, mas recomendado)
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Para otimização de performance
+numpy>=1.24.3
+
+# Para exportação de dados
+xlsxwriter>=3.1.0
